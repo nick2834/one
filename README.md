@@ -1,5 +1,7 @@
 # one
+>参照韩寒One(一个)APP接口仿写的一个VUE页面，采用MINT-UI
 
+https://github.com/jokermonn/-Api
 > A Vue.js project
 
 ## Build Setup
